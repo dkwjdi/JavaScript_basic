@@ -6,10 +6,7 @@
 </div>
 
 <div style="clear : both"></div>
-Git에는 코드만 정리해 두었으며 코드에 대한 설명은 제 블로그/JavaScript 카테고리에에 있습니다. 
-```
-  <https://dkwjdi.tistory.com/>
- ```
+Git에는 코드만 정리해 두었으며 코드에 대한 설명은 [블로그](https://dkwjdi.tistory.com/) JavaScript 카테고리에 있습니다. 
  
  
  
