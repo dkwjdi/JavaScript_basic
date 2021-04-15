@@ -1,12 +1,4 @@
-var value = "value";
-
-function printValue() {
-    return value;
-}
-
-function printFunc(func) {
-    var value = "value2";
-    console.log(func());
-}
-
-printFunc(printValue);
+var var1 = 1;
+var var2 = 2;
+console.log(var1); //1
+console.log(var2); //2
