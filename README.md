@@ -46,7 +46,7 @@ Git에는 코드만 정리해 두었으며 코드에 대한 설명은 [블로그
 |04/14|05|스코프 체인|:white_check_mark:|
 |04/14|05|클로저 개념|:white_check_mark:|
 |04/15|05|클로저 활용|:white_check_mark:|
-|04/15|06|객체지향 프로그래밍 개념|:heavy_multiplication_x:|
+|04/15|06|객체지향 프로그래밍 개념|:white_check_mark:|
 |04/15|06|클래스, 생성자, 메서드|:heavy_multiplication_x:|
 |04/15|06|상속|:heavy_multiplication_x:|
 |04/15|06|캡슐화|:heavy_multiplication_x:|
